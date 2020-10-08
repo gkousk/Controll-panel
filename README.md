@@ -1,3 +1,4 @@
+For Login in admin page the credentials are: email-gkousk2@gmail.com password-gkousk
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
